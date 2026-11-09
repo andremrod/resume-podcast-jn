@@ -8,7 +8,7 @@ Extensão do Chrome que **lembra onde você parou** nos podcasts do [jovemnerd.c
 
 > Extensão independente, sem vínculo oficial com o Jovem Nerd.
 
-*English: a Chrome extension, [available on the Chrome Web Store](https://chromewebstore.google.com/detail/resume-podcast-jn/ioocoajakjjkpcjbbkbcmpfkpcicgmkm), (Manifest V3) that saves and restores your playback position on jovemnerd.com.br podcasts. No permissions beyond that site, no network requests, no remote code.*
+*English: a Chrome extension, [available on the Chrome Web Store](https://chromewebstore.google.com/detail/resume-podcast-jn/ioocoajakjjkpcjbbkbcmpfkpcicgmkm) (Manifest V3), that saves and restores your playback position on jovemnerd.com.br podcasts. No permissions beyond that site, no network requests, no remote code.*
 
 ## Como funciona
 
