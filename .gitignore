@@ -1,0 +1,5 @@
+# Pacote gerado (vai como anexo na Release, não no código)
+*.zip
+# Cópia idêntica de docs/ (a política publicada fica no repositório resumepodcast-jn.github.io)
+github-pages/
+.DS_Store
