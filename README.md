@@ -1,12 +1,14 @@
 # Resume Podcast - JN
 
+**Publicada na Chrome Web Store: [instalar Resume Podcast - JN](https://chromewebstore.google.com/detail/resume-podcast-jn/ioocoajakjjkpcjbbkbcmpfkpcicgmkm)**
+
 [![build](https://github.com/andremrod/resume-podcast-jn/actions/workflows/release.yml/badge.svg)](https://github.com/andremrod/resume-podcast-jn/actions/workflows/release.yml)
 
 Extensão do Chrome que **lembra onde você parou** nos podcasts do [jovemnerd.com.br](https://jovemnerd.com.br). Feche a aba no meio do episódio, abra de novo depois, e o player continua do mesmo ponto.
 
 > Extensão independente, sem vínculo oficial com o Jovem Nerd.
 
-*English: a Chrome extension (Manifest V3) that saves and restores your playback position on jovemnerd.com.br podcasts. No permissions beyond that site, no network requests, no remote code.*
+*English: a Chrome extension, [available on the Chrome Web Store](https://chromewebstore.google.com/detail/resume-podcast-jn/ioocoajakjjkpcjbbkbcmpfkpcicgmkm), (Manifest V3) that saves and restores your playback position on jovemnerd.com.br podcasts. No permissions beyond that site, no network requests, no remote code.*
 
 ## Como funciona
 
@@ -28,6 +30,10 @@ Tudo fica no seu navegador, no `localStorage` do site jovemnerd.com.br: o endere
 [Política de privacidade completa](https://andremrod.github.io/resumepodcast-jn.github.io/)
 
 ## Instalar
+
+**Pela Chrome Web Store (recomendado)**
+
+Abra a [página da extensão](https://chromewebstore.google.com/detail/resume-podcast-jn/ioocoajakjjkpcjbbkbcmpfkpcicgmkm) e clique em **Usar no Chrome**. As atualizações chegam sozinhas.
 
 **Pelo pacote pronto**
 1. Baixe `resume-podcast-jn.zip` na [última Release](https://github.com/andremrod/resume-podcast-jn/releases/latest) e descompacte.
